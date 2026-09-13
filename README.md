@@ -1,11 +1,11 @@
-# KR4US3 Chat Gabarito
+# AIbolic Chat Gabarito
 
 Conjunto de instruções criado para orientar o comportamento de assistentes de IA durante conversas, com foco em qualidade da decisão, independência intelectual, precisão, eficiência, continuidade e redução de respostas superficiais ou excessivamente complacentes.
 
 O conjunto é composto por duas camadas complementares:
 
-- `KR4US3-InstrucoesPersonalizadas.md`
-- `KR4US3-GabaritoChat.md`
+- `AIbolic-custom-instructions.md`
+- `AIbolic-chat.md`
 
 ## Objetivo
 
@@ -31,7 +31,7 @@ As instruções procuram influenciar a forma como ela trabalha, incluindo:
 
 # Arquivos
 
-## 1. KR4US3-InstrucoesPersonalizadas.md
+## 1. AIbolic-custom-instructions.md
 
 Este arquivo contém a camada global e compacta das instruções.
 
@@ -49,7 +49,7 @@ Ela contém os princípios que fazem sentido independentemente do assunto da con
 
 ---
 
-## 2. KR4US3-GabaritoChat.md
+## 2. AIbolic-chat.md
 
 Este é o gabarito completo.
 
@@ -70,7 +70,7 @@ Ele contém regras mais detalhadas de raciocínio e execução, incluindo protoc
 
 ### Como usar
 
-Anexe o arquivo `KR4US3-GabaritoChat.md` no início de uma nova conversa.
+Anexe o arquivo `AIbolic-chat.md` no início de uma nova conversa.
 
 Em seguida, envie uma instrução simples como:
 
