@@ -1,8 +1,8 @@
-# KR4US3 - Testes de Avaliação
+# AIbolic - Testes de Avaliação
 
 ## Objetivo
 
-Este documento define um conjunto de testes para avaliar objetivamente o impacto das instruções do projeto KR4US3 sobre a qualidade das respostas produzidas por um assistente de IA.
+Este documento define um conjunto de testes para avaliar objetivamente o impacto das instruções do projeto AIbolic sobre a qualidade das respostas produzidas por um assistente de IA.
 
 O objetivo principal é responder às seguintes perguntas:
 
@@ -27,8 +27,8 @@ Cada teste deve ser executado em três condições independentes.
 
 Chat sem:
 
-- `KR4US3-InstrucoesPersonalizadas.md`
-- `KR4US3-GabaritoChat.md`
+- `AIbolic-InstrucoesPersonalizadas.md`
+- `AIbolic-GabaritoChat.md`
 
 Representa o comportamento padrão do modelo.
 
@@ -36,14 +36,14 @@ Representa o comportamento padrão do modelo.
 
 Chat utilizando apenas:
 
-- `KR4US3-InstrucoesPersonalizadas.md`
+- `AIbolic-InstrucoesPersonalizadas.md`
 
 ### Condição C - Configuração completa
 
 Chat utilizando:
 
-- `KR4US3-InstrucoesPersonalizadas.md`
-- `KR4US3-GabaritoChat.md`
+- `AIbolic-InstrucoesPersonalizadas.md`
+- `AIbolic-GabaritoChat.md`
 
 ---
 
