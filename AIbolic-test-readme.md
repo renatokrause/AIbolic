@@ -28,7 +28,7 @@ Cada teste deve ser executado em três condições independentes.
 Chat sem:
 
 - `AIbolic-custom-instructions.md`
-- `AIbolic-GabaritoChat.md`
+- `AIbolic-chat.md`
 
 Representa o comportamento padrão do modelo.
 
@@ -43,7 +43,7 @@ Chat utilizando apenas:
 Chat utilizando:
 
 - `AIbolic-custom-instructions.md`
-- `AIbolic-GabaritoChat.md`
+- `AIbolic-chat.md`
 
 ---
 
